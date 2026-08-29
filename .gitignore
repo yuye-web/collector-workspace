@@ -6,3 +6,8 @@ dist/
 .edgeone/
 __pycache__/
 *.pyc
+_deploy/
+*.html~
+*.html.bak
+.DS_Store
+Thumbs.db
