@@ -1,0 +1,15 @@
+收藏家工作台 · 访问地址（更新于 2026-08-29 20:40）
+
+【永久主地址 · 推荐】永不过期，无需 token，直接分享：
+https://yuye-web.github.io/collector-workspace/
+
+【备用地址 · EdgeOne 加速】国内访问更快，但链接中的 token 会过期：
+https://collector-workspace-bprgpa7w.edgeone.cool/
+- 打开腾讯云 EdgeOne 控制台获取最新一次部署链接（含 ?eo_token=... 完整复制）：
+  https://console.cloud.tencent.com/edgeone/pages/project/makers-ixcssju1ymd9
+
+【源文件】C:\Users\12568\WorkBuddy\WorkBuddy工作区\收藏家工作台\index.html
+【GitHub 仓库】https://github.com/yuye-web/collector-workspace （Public，main 分支）
+
+【更新流程】改完 index.html → 推送到 GitHub 仓库 main 分支 → GitHub Pages 自动更新（约1~2分钟生效）
+【日常使用建议】手机/平板浏览器打开永久网址 → 分享 → 添加到主屏幕，像 App 一样使用。
