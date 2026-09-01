@@ -11,3 +11,4 @@ _deploy/
 *.html.bak
 .DS_Store
 Thumbs.db
+.workbuddy/
